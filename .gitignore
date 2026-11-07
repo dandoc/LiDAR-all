@@ -1,0 +1,24 @@
+# Compiled binaries and objects
+*.o
+*.obj
+*.so
+*.a
+build/
+bin/
+zybo_live
+zybo_frame
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
